@@ -1,3 +1,3 @@
 # counterApp
 ---DOM manipulation--- <br>
-Increase and decrease count via button click
+Increase and decrease count via button click is implemented
