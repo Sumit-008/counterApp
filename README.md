@@ -1,5 +1,5 @@
 # counterApp
 ---DOM manipulation--- <br>
-Increase, decrease and reset count via button click is implemented
+⭐️ Increase, decrease and reset count via button click is implemented
 <br>
 learning and practising time
